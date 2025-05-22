@@ -129,13 +129,9 @@
   <ItemGroup>
     <ClInclude Include="Dalloc.hpp" />
     <ClInclude Include="Dhelper.h" />
-    <ClInclude Include="Main.h" />
     <ClInclude Include="Reverse_VecIterator.hpp" />
     <ClInclude Include="VecIterator.hpp" />
     <ClInclude Include="Vector.hpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
